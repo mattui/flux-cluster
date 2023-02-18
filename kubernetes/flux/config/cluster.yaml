@@ -8,7 +8,7 @@ spec:
   interval: 30m
   ref:
     branch: main
-  url: "ssh://git@github.com/mattui/flux-cluster"
+  url: "https://github.com/mattui/flux-cluster.git"
   ignore: |
     # exclude all
     /*
